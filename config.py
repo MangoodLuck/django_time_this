@@ -1,0 +1,3 @@
+
+DEFAULT_THRESHOLD = 500  # in millisecond
+DEFAULT_DUPLICATE_RECORD = False
